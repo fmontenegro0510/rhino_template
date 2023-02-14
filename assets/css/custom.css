@@ -1,3 +1,24 @@
 .login-center {
         align-self: center;
 }
+
+.logo-dashboard{
+        align-self: center;
+}
+
+.logo-icon-size{
+        height: 4rem !important;
+        width: 4rem !important;
+}
+
+.space-menu{
+        margin-bottom: 3rem;
+}
+
+.search-align{
+        text-align: -webkit-center;
+}
+
+.card-info-center{
+    align-self: center;
+}
